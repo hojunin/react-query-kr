@@ -1,0 +1,8 @@
+{
+  "label": "컨셉과 가이드 (Guides & Concepts)",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "이 문서는 리액트 쿼리의 주요 API를 설명합니다"
+  }
+}

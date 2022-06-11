@@ -1,5 +1,6 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
+title: 간단하게 시작해보기 (Quick Start)
 ---
 
 # Deploy your site

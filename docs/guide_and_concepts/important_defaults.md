@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: 기본값
 ---
 
 # Manage Docs Versions
@@ -34,7 +35,7 @@ module.exports = {
       items: [
         // highlight-start
         {
-          type: 'docsVersionDropdown',
+          type: "docsVersionDropdown",
         },
         // highlight-end
       ],
