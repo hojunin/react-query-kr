@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreact_query_kr=self.webpackChunkreact_query_kr||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/react-query-kr/blog/welcome"}]}')}}]);
