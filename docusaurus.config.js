@@ -7,7 +7,7 @@ const config = {
   title: "리액트 쿼리",
   tagline: "리액트 쿼리 공식문서 번역 프로젝트",
   url: "https://github.com/hojunin/react-query-kr",
-  baseUrl: "/",
+  baseUrl: "/react-query-kr/",
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -59,41 +59,32 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "번역 문서",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "시작하기",
+                to: "/docs/overview",
+              },
+              {
+                label: "컨셉과 가이드",
+                to: "/docs/guide_and_concepts",
+              },
+              {
+                label: "API 문서",
+                to: "/docs/api_reference",
               },
             ],
           },
           {
-            title: "Community",
+            title: "이거 만든 사람들",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
+                label: "냐냐",
                 to: "/blog",
               },
               {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                label: "개발자 깃허브",
+                href: "https://github.com/hojunin",
               },
             ],
           },
