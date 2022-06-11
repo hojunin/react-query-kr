@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "리액트 쿼리",
   tagline: "리액트 쿼리 공식문서 번역 프로젝트",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://github.com/hojunin/react-query-kr",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
@@ -16,30 +16,11 @@ const config = {
   projectName: "react-query-kr", // Usually your repo name.
   deploymentBranch: "react-query-kr",
 
-  i18n: {
-    defaultLocale: "ko",
-    locales: ["ko"],
-  },
-
   presets: [
     [
       "@docusaurus/preset-classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-        },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -68,8 +49,8 @@ const config = {
           },
           { to: "/blog", label: "블로그 번역본", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
+            href: "https://hojunin.github.io/getcha_frontend_docs/",
+            label: "겟차 프론트엔드 챕터",
             position: "right",
           },
         ],
