@@ -67,11 +67,11 @@ const config = {
                             },
                             {
                                 label: '컨셉과 가이드',
-                                to: '/docs/guide_and_concepts',
+                                to: '/docs/guide_and_concepts/important_defaults',
                             },
                             {
                                 label: 'API 문서',
-                                to: '/docs/api_reference',
+                                to: '/docs/api_reference/useQuery',
                             },
                         ],
                     },
