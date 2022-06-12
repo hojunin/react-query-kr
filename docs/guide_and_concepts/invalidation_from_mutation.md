@@ -1,4 +1,4 @@
 ---
-sidebar_position: 18
+sidebar_position: 19
 title: 뮤테이션 무효화 (Invalidation from Mutations)
 ---
