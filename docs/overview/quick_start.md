@@ -7,9 +7,9 @@ title: 간단하게 시작해보기 (Quick Start)
 
 아래 예제는 간단히 리액트 쿼리의 핵심 컨셉 3개를 설명합니다.
 
--   **[쿼리](https://react-query.tanstack.com/guides/queries)**
--   **[뮤테이션](https://react-query.tanstack.com/guides/mutations)**
--   **[쿼리 무효화](https://react-query.tanstack.com/guides/query-invalidation)**
+-   **[쿼리](/docs/guide_and_concepts/queries.md)**
+-   **[뮤테이션](/docs/guide_and_concepts/mutation.md)**
+-   **[쿼리 무효화](/docs/guide_and_concepts/query_invalidation.md)**
 
 ```tsx
 1 import {
