@@ -1,0 +1,10 @@
+.logo {
+  width: 300px;
+  height: 300px;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+  transform: rotate();
+}
