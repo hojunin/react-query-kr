@@ -15,8 +15,6 @@ title: 설치 (installation)
 3 $ yarn add react-query
 ```
 
-React Query is compatible with React v16.8+ and works with ReactDOM and React Native.
-
 리액트 쿼리는 16.8버전 이상의 React에서 동작합니다. React Dom 및 React Native에서도 동작하고요.
 
 :::tip
