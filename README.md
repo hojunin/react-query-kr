@@ -1,12 +1,13 @@
 # [리액트 쿼리 공식문서 및 블로그 - 한국어 번역 프로젝트](http://hojunin.github.io/react-query-kr/)
 
 ![reactquery](https://user-images.githubusercontent.com/18079523/177581034-c71559b5-0766-4ba4-a78b-20afa6401ea5.png)
+
 ### [공식 문서](https://react-query.tanstack.com/)
 
 ## 🚘 [Getcha Frontend Chapter](https://hojunin.github.io/getcha_frontend_docs/)
-| [Nick](https://github.com/hojunin) | [Clare](https://github.com/claire-euni) | [Bruno](https://github.com/bruno0126) | [Nancy](https://github.com/Yeewon) |
-| --- | --- | --- | --- |
 
+| [Nick](https://github.com/hojunin) | [Clare](https://github.com/claire-euni) | [Bruno](https://github.com/bruno0126) | [Nancy](https://github.com/Yeewon) |
+| ---------------------------------- | --------------------------------------- | ------------------------------------- | ---------------------------------- |
 
 ## 목차
 
@@ -22,6 +23,7 @@
 8. ~~react-native~~ - nick
 
 ### 컨셉과 가이드
+
 1. ~~기본 설정 (important defaults)~~ - nick
 2. ~~쿼리 (queries)~~ - nick
 3. ~~쿼리 키 (query keys)~~ - nick
@@ -29,7 +31,7 @@
 5. ~~쿼리 다중 호출 (parallel queries)~~ - nick
 6. ~~의존적 쿼리 실행 (dependent queries)~~ - nick
 7. ~~백그라운드 페칭 확인 변수 (background fetching indicators)~~ - nick
-8. 포커스 시 리페칭 (window focus refetching)
+8. ~~포커스 시 리페칭 (window focus refetching)~~ - bruno
 9. ~~쿼리 중지 (disabling/pausing queries)~~ - nick
 10. ~~쿼리 재시도 (query retries)~~ - nick
 11. ~~페이지네이션 쿼리 (paginated queries)~~ - nick
@@ -53,6 +55,7 @@
 29. 기존 상태관리 라이브러리를 대체할 수 있나요? (does this replace redux & mobx)
 
 ### API
+
 1. useQuery
 2. useQueries
 3. useInfiniteQuery
