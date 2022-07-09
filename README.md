@@ -2,7 +2,7 @@
 
 ![reactquery](https://user-images.githubusercontent.com/18079523/177581034-c71559b5-0766-4ba4-a78b-20afa6401ea5.png)
 
-### [공식 문서](https://react-query.tanstack.com/)
+### [공식 문서](https://tanstack.com/query/v4/docs/overview)
 
 ## 🚘 [Getcha Frontend Chapter](https://hojunin.github.io/getcha_frontend_docs/)
 
@@ -62,8 +62,8 @@
 4. useMutation
 5. useIsFetching
 6. useIsMutating
-7. queryClient
-8. queryClientProvider
+7. queryClient - nick
+8. queryClientProvider - nick
 9. useQueryClient
 10. queryCache
 11. mutationCache
